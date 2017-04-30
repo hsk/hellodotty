@@ -2,6 +2,6 @@
 
 usage:
 
-    git clone https://github.com/hsk/hellodotty
+    git clone git@github.com:hsk/hellodotty.git
     cd hellodotty
     sbt ~"run-main test"
